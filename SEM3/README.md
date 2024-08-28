@@ -5,3 +5,5 @@ NPM : 2306244974
 Kelas : PBP C
 
 Hobi : Ngoding
+
+Jurusan : Ilmu Komputer
